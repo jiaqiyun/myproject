@@ -1,0 +1,9 @@
+{
+  "name" : "wwk",
+  "require" : {
+    "workerman/gateway-worker-for-win" : ">=3.0.0"
+  },
+  "license" : "MIT",
+  "keywords" : [ "distributed", "communication" ],
+  "homepage" : "http://www.workerman.net"
+}
